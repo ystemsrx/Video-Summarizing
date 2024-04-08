@@ -1,5 +1,3 @@
-![image](https://github.com/ystemsrx/Video-Summarizing/assets/140463276/414698ec-f0e1-429f-8863-f93af064cb6e)# Video Summarizing Script
-
 ## Description
 This Python script automates the process of summarizing the content of video files. It extracts audio from a video, transcribes it to an SRT file using the OpenAI's Whisper model, and then generates a summary of the transcript using OpenAI's GPT-4 Turbo. This script is particularly useful for creating concise summaries of lengthy video contents.
 
