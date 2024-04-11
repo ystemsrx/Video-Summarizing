@@ -29,7 +29,7 @@ def read_srt(srt_file_name):
 def generate_summary(temperature, srt_content):
     client = OpenAI()
     response = client.chat.completions.create(
-        model="gpt-4-0125-preview",
+        model="gpt-4-turbo",
         temperature=temperature,
         messages=[
             {
