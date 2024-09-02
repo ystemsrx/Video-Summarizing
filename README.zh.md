@@ -36,7 +36,7 @@
 ## 样本摘要截图
 所提供的截图是脚本生成的样本输出，展示了代码对一个视频片段的总结效果。
 
-这是从OpenAI开发者日视频的一个简短片段中总结出来的，完整视频可在此处观看：https://www.youtube.com/watch?v=U9mJuUkhUzk。
+这是从OpenAI开发者日视频的一个简短片段中总结出来的，完整视频可在此处观看：[OpenAI DevDay](https://www.youtube.com/watch?v=U9mJuUkhUzk)。
 
 ![image](https://github.com/ystemsrx/Video-Summarizing/assets/140463276/f2e064dc-3fc5-49d5-914b-b3b5e96d3282)
 
